@@ -1,0 +1,3 @@
+[submodule "RU202/materials"]
+	path = RU202/materials
+	url = https://github.com/redislabs-training/ru202
